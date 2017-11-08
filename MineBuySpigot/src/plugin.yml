@@ -1,0 +1,5 @@
+name: MineBuy
+authors: MineBuy Java Team
+main: xyz.minebuy.plugin.MineBuySpigot.MineBuy
+website: https://minebuy.xyz/
+version: '@project.version@'
