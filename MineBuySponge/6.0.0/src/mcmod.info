@@ -1,0 +1,10 @@
+[{
+    "modid": "minebuy",
+    "name": "MineBuy Sponge",
+    "version": "Alpha-1",
+    "description": "The Official Plugin that interegates with MineBuy",
+    "url": "https://minebuy.xyz/",
+    "authorList": [
+        "MineBuy Java Team"
+    ]
+}]
